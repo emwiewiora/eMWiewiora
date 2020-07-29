@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 3. The basics of JavaScript
 
 🔭 I’m currently working on ...
-1. see what i am playing with in codepen.io <a target=_blank href="https://codepen.io/emwiewiora">here</a>
+1. see what i am playing with in codepen.io <a target="_blank" href="https://codepen.io/emwiewiora">here</a>
 
 This page is a work in progress.
 
