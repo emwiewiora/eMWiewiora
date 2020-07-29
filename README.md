@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am currently learning FullStack part time, in hopes to change my career.
 🌱 I’m currently learning ...
 1. More indepth HTML
 2. More indepth CSS
@@ -21,6 +22,7 @@ Here are some ideas to get you started:
 
 🔭 I’m currently working on ...
 1. see what i am playing with in codepen.io <a target="_blank" href="https://codepen.io/emwiewiora">here</a>
+2. I have started <a href="https://www.theodinproject.com/">The Odin Project</a>
 
 This page is a work in progress.
 
