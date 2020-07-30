@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am currently learning FullStack part time, in hopes to change my career.
+I am currently learning FullStack part time, in hopes to change my career. <br>
 🌱 I’m currently learning ...
 1. More indepth HTML
 2. More indepth CSS
@@ -27,3 +27,9 @@ I am currently learning FullStack part time, in hopes to change my career.
 This page is a work in progress.
 
 Thanks for visiting.....
+
+⚡ You can also find me here...<br>
+<a href="https://www.linkedin.com/in/ewiewiora">LinkedIn</a>
+<a href="https://twitter.com/emwiewiora">Twitter</a>
+<a href="https://www.reddit.com/user/efreaq">Reddit</a>(as efreaq)
+
