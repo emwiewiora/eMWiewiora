@@ -29,7 +29,7 @@ This page is a work in progress.
 Thanks for visiting.....
 
 ⚡ You can also find me here...<br>
-<a href="https://www.linkedin.com/in/ewiewiora">LinkedIn</a>
-<a href="https://twitter.com/emwiewiora">Twitter</a>
+<a href="https://www.linkedin.com/in/ewiewiora">LinkedIn</a> :
+<a href="https://twitter.com/emwiewiora">Twitter</a> :
 <a href="https://www.reddit.com/user/efreaq">Reddit</a>(as efreaq)
 
