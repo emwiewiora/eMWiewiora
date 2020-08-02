@@ -1,4 +1,4 @@
-
+<img align="right" src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/117.png" width="50" height="50">
 <p>I am currently learning FullStack part time, in hopes to change my career.</p>
 <h2>🌱 I’m currently learning ...</h2>
 <ol>
@@ -24,7 +24,7 @@
 </ul>
 
 <p align="right">
-    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/117.png" width="50" height="50">
+    <img align="right" src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/117.png" width="50" height="50">
 </p>
 <h3 align="center">You have been greeted by - <b>Seadra</b></h3>
 <h3 align="center">Have a nice day!</h3>
