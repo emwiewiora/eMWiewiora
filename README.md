@@ -1,4 +1,4 @@
-
+<img align="right" src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/91.png" width="100" height="100">
 <p>I am currently learning FullStack part time, in hopes to change my career.</p>
 <h2>🌱 I’m currently learning ...</h2>
 <ol>
@@ -21,10 +21,4 @@
     <li><a href="https://www.linkedin.com/in/ewiewiora">LinkedIn</a></li>
     <li><a href="https://twitter.com/emwiewiora">Twitter</a></li>
     <li><a href="https://www.reddit.com/user/efreaq">Reddit</a>(as efreaq)</li>
-</ul>
-
-<p align="right">
-    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/137.png" width="50" height="50">
-</p>
-<h3 align="center">You have been greeted by - <b>Porygon</b></h3>
-<h3 align="center">Have a nice day!</h3>ds
+</ul> 
