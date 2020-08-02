@@ -1,3 +1,7 @@
+# The base code was pulled from Kelvin Chu and this article and tweeked for my needs.
+# https://dev.to/ragebill/how-to-create-a-self-updating-github-profile-2m22
+# https://github.com/RageBill/RageBill
+
 import requests, json, random
 
 f = open("./README.md", "w")
