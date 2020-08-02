@@ -4,7 +4,7 @@ f = open("./README.md", "w")
 pokemon_id = random.randint(1, 151)
 res = requests.get(f'https://pokeapi.co/api/v2/pokemon/{pokemon_id}')
 result = json.loads(res.text)
-f.write(f'''
+f.write(f'''<img align="right" src="{result['sprites']['front_default']}" width="100" height="100">
 <p>I am currently learning FullStack part time, in hopes to change my career.</p>
 <h2>🌱 I’m currently learning ...</h2>
 <ol>
@@ -27,12 +27,6 @@ f.write(f'''
     <li><a href="https://www.linkedin.com/in/ewiewiora">LinkedIn</a></li>
     <li><a href="https://twitter.com/emwiewiora">Twitter</a></li>
     <li><a href="https://www.reddit.com/user/efreaq">Reddit</a>(as efreaq)</li>
-</ul>
-
-<p align="right">
-    <img src="{result['sprites']['front_default']}" width="50" height="50">
-</p>
-<h3 align="center">You have been greeted by - <b>{result['name'].title()}</b></h3>
-<h3 align="center">Have a nice day!</h3>
+</ul> 
 ''')
 f.close()
