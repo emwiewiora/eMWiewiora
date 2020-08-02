@@ -1,4 +1,7 @@
-
+<p align="right">
+    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/22.png" width="50" height="50">
+</p>
+<h3 align="right"><b>Fearow</b></h3>
 <p>I am currently learning FullStack part time, in hopes to change my career.</p>
 <h2>🌱 I’m currently learning ...</h2>
 <ol>
@@ -26,5 +29,5 @@
 <p align="right">
     <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/22.png" width="50" height="50">
 </p>
-<h3 align="center">You have been greeted by - <b>Fearow</b></h3>
+<h3 align="right"><b>Fearow</b></h3>
 <h3 align="center">Have a nice day!</h3>
