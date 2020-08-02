@@ -29,7 +29,7 @@ f.write(f'''
     <li><a href="https://www.reddit.com/user/efreaq">Reddit</a>(as efreaq)</li>
 </ul>
 
-<p align="center">
+<p align="right">
     <img src="{result['sprites']['front_default']}" width="50" height="50">
 </p>
 <h3 align="center">You have been greeted by - <b>{result['name'].title()}</b></h3>
