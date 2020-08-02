@@ -23,8 +23,8 @@
     <li><a href="https://www.reddit.com/user/efreaq">Reddit</a>(as efreaq)</li>
 </ul>
 
-<p align="center">
-    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/27.png" width="50" height="50">
+<p align="right">
+    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/55.png" width="50" height="50">
 </p>
-<h3 align="center">You have been greeted by - <b>Sandshrew</b></h3>
+<h3 align="center">You have been greeted by - <b>Golduck</b></h3>
 <h3 align="center">Have a nice day!</h3>
