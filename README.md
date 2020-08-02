@@ -14,22 +14,27 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am currently learning FullStack part time, in hopes to change my career. <br>
-🌱 I’m currently learning ...
-1. More indepth HTML
-2. More indepth CSS
-3. The basics of JavaScript
+<p>I am currently learning FullStack part time, in hopes to change my career.</p>
+<h2>🌱 I’m currently learning ...</h2>
+<ol>
+    <li>1. More indepth HTML</li>
+    <li>2. More indepth CSS</li>
+    <li>3. The basics of JavaScript</li>
+</ol>
 
-🔭 I’m currently working on ...
-1. see what i am playing with in codepen.io <a target="_blank" href="https://codepen.io/emwiewiora">here</a>
-2. I have started <a href="https://www.theodinproject.com/">The Odin Project</a>
+<h2>🔭 I’m currently working on ...</h2>
+<ol>
+    <li>1. see what i am playing with in codepen.io <a target="_blank" href="https://codepen.io/emwiewiora">here</a></li>
+    <li>2. I have started <a href="https://www.theodinproject.com/">The Odin Project</a></li>
+</ol>
+<p>This page is a work in progress.</p>
 
-This page is a work in progress.
+<p>Thanks for visiting.....</p>
 
-Thanks for visiting.....
-
-⚡ You can also find me here...<br>
-<a href="https://www.linkedin.com/in/ewiewiora">LinkedIn</a> :
-<a href="https://twitter.com/emwiewiora">Twitter</a> :
-<a href="https://www.reddit.com/user/efreaq">Reddit</a>(as efreaq)
+<h3>⚡ You can also find me here...</h3>
+<ul>
+    <li><a href="https://www.linkedin.com/in/ewiewiora">LinkedIn</a></li>
+    <li><a href="https://twitter.com/emwiewiora">Twitter</a></li>
+    <li><a href="https://www.reddit.com/user/efreaq">Reddit</a>(as efreaq)</li>
+</ul>
 
