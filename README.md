@@ -1,9 +1,5 @@
 
 <p>I am currently learning FullStack part time, in hopes to change my career.</p>
-<p align="right">
-    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/135.png" width="150" height="150">
-</p>
-<h3 align="right">You have been greeted by - <b>Jolteon</b></h3>
 <h2>🌱 I’m currently learning ...</h2>
 <ol>
     <li>1. More indepth HTML</li>
@@ -28,7 +24,7 @@
 </ul>
 
 <p align="right">
-    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/135.png" width="150" height="150">
+    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/117.png" width="50" height="50">
 </p>
-<h3 align="right">You have been greeted by - <b>Jolteon</b></h3>
+<h3 align="center">You have been greeted by - <b>Seadra</b></h3>
 <h3 align="center">Have a nice day!</h3>
