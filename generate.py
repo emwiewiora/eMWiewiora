@@ -20,6 +20,7 @@ f.write(f'''<img align="right" src="{result['sprites']['front_default']}" width=
 <h3>🔭 I’m currently working on ...</h3>
 <ol>
     <li>See what i am playing with in codepen.io <a target="_blank" href="https://codepen.io/emwiewiora">here</a></li>
+    <li>LinkedIn Learning: Become a Software Developer</li>
     <li>I have started <a href="https://www.theodinproject.com/">The Odin Project</a></li>
     <li>Developing this page</li>
 </ol>
