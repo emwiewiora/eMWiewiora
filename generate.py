@@ -23,6 +23,7 @@ f.write(f'''<img align="right" src="{result['sprites']['front_default']}" width=
     <li>LinkedIn Learning: Become a Software Developer</li>
     <li>I have started <a href="https://www.theodinproject.com/">The Odin Project</a></li>
     <li>Developing this page</li>
+    <li>Random small projects that look interesting, from around the net.</li>
 </ol>
 
 <p>Thanks for visiting.....</p>
