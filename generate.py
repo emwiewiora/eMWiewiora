@@ -12,15 +12,13 @@ f.write(f'''<img align="right" src="{result['sprites']['front_default']}" width=
 <p>I am currently learning FullStack part time, in hopes to change my career.</p>
 <h3>🌱 I’m currently learning ...</h3>
 <ol>
-    <li>More indepth HTML</li>
-    <li>More indepth CSS</li>
-    <li>The basics of JavaScript</li>
+    <li>CS50 - Intro to Computer Science - Harvard - EdX </li>
 </ol>
 
 <h3>🔭 I’m currently working on ...</h3>
 <ol>
     <li>See what i am playing with in codepen.io <a target="_blank" href="https://codepen.io/emwiewiora">here</a></li>
-    <li>LinkedIn Learning: Become a Software Developer</li>
+    <li>LinkedIn Learning: On Hold</li>
     <li>I have started <a href="https://www.theodinproject.com/">The Odin Project</a></li>
     <li>Developing this page</li>
     <li>Random small projects that look interesting, from around the net.</li>
